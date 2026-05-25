@@ -65,7 +65,7 @@ export default function App() {
             <p>💰 <strong>Giá bán:</strong> {selected.price}</p>
             <p>🏠 <strong>Tổng số căn:</strong> {selected.units}</p>
             <p>📍 <strong>Vị trí:</strong> {selected.lat.toFixed(4)}, {selected.lng.toFixed(4)}</p>
-            <p>️ <strong>Hoàn thành:</strong> 2027-2028</p>
+            <p>🏗️ <strong>Hoàn thành:</strong> 2027-2028</p>
           </div>
 
           <div className="flex gap-2">
